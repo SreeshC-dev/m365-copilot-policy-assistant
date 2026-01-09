@@ -10,6 +10,7 @@ Built a safety-constrained Copilot assistant that interprets example company gui
 
 
 ###2. PTO Eligibility Guidance
+
 <img width="565" height="572" alt="Screenshot 2026-01-09 at 8 42 26 AM" src="https://github.com/user-attachments/assets/afd5bb21-5d5d-4375-92ee-c44013f388c7" />
 
 
