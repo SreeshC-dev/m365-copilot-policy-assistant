@@ -3,6 +3,11 @@
 ##Overview
 Built a safety-constrained Copilot assistant that interprets example company guidelines and produces compliant guidance while respecting Responsible AI restrictions.
 
+###Agent initialization
+
+<img width="822" height="585" alt="Screenshot 2026-01-09 at 8 46 37 AM" src="https://github.com/user-attachments/assets/b16b85f4-c3d9-4b5e-a904-165e86e01b27" />
+
+
 ##Scenarios
 
 ###1. Expense Reimbursement Guidance
