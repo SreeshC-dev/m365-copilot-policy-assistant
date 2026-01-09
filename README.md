@@ -22,3 +22,15 @@ Built a safety-constrained Copilot assistant that interprets example company gui
 
 ###3. Security Compliance Guidance
 <img width="1470" height="837" alt="Screenshot 2026-01-09 at 8 40 13 AM" src="https://github.com/user-attachments/assets/f639a40a-20bf-4912-bf88-51b6bb9cd77f" />
+
+
+###Key Learnings/Skills Evinced
+Designed safety-aware prompts to avoid Responsible AI blocks
+
+Used example-based reasoning to prevent hallucinations
+
+Demonstrated enterprise-style policy interpretation for expense, HR, and security scenarios
+
+Produced structured outputs suitable for internal enterprise workflows
+
+Learned to work within Microsoft 365 Copilot guardrails
